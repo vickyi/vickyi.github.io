@@ -5,30 +5,44 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://honren.club/</loc>
-<lastmod>2017-02-27T00:56:34-00:00</lastmod>
+<lastmod>2017-02-27T06:06:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://honren.club/archives.html</loc>
-<lastmod>2017-02-27T00:56:34-00:00</lastmod>
+<lastmod>2017-02-27T06:06:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://honren.club/tags.html</loc>
-<lastmod>2017-02-27T00:56:34-00:00</lastmod>
+<lastmod>2017-02-27T06:06:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>http://honren.club/categories.html</loc>
-<lastmod>2017-02-27T00:56:34-00:00</lastmod>
+<lastmod>2017-02-27T06:06:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
+</url>
+
+<url>
+<loc>http://honren.club/pages/about.html</loc>
+<lastmod>2015-07-18T08:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://honren.club/pages/contact.html</loc>
+<lastmod>2015-07-18T08:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
 </url>
 
 <url>
