@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Brave New World</title>
+    <link>https://vickyi.github.io/tags/Linux/</link>
+    <description>Recent content in Linux on Brave New World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 28 Apr 2018 16:37:56 +0800</lastBuildDate>
+    
+	<atom:link href="https://vickyi.github.io/tags/Linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux 获取MD5 函数</title>
+      <link>https://vickyi.github.io/post/2018-05-03#Linux-%E8%8E%B7%E5%8F%96%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84MD5%E5%80%BC/</link>
+      <pubDate>Sat, 28 Apr 2018 16:37:56 +0800</pubDate>
+      
+      <guid>https://vickyi.github.io/post/2018-05-03#Linux-%E8%8E%B7%E5%8F%96%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84MD5%E5%80%BC/</guid>
+      <description>Linux MD5 函数 Linux 获取字符串的MD5值 1 2 [vk@ABCBI-HIVE-001 ~]$ echo -n &amp;#39;0&amp;#39;|md5sum|cut -d &amp;#39; &amp;#39; -f1 cfcd208495d565ef66e7dff9f98764da Linux 获取文件的MD5值 1 2 [vk@ABCBI-HIVE-001 ~]$ md5sum hu.txt 6859e6e1d06d82440dd9a8467093fbeb hu.txt</description>
+    </item>
+    
+  </channel>
+</rss>

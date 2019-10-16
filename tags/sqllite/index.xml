@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sqllite on Brave New World</title>
+    <link>https://vickyi.github.io/tags/sqllite/</link>
+    <description>Recent content in sqllite on Brave New World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 03 May 2018 16:37:56 +0800</lastBuildDate>
+    
+	<atom:link href="https://vickyi.github.io/tags/sqllite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>python sqlite3 模糊查询</title>
+      <link>https://vickyi.github.io/post/2018-05-03#python-sqlite3-%E6%A8%A1%E7%B3%8A%E6%9F%A5%E8%AF%A2/</link>
+      <pubDate>Thu, 03 May 2018 16:37:56 +0800</pubDate>
+      
+      <guid>https://vickyi.github.io/post/2018-05-03#python-sqlite3-%E6%A8%A1%E7%B3%8A%E6%9F%A5%E8%AF%A2/</guid>
+      <description>python sqlite3 模糊查询 1 2 3 self.cursor.execute( &amp;#34;select string from stringtable where string like ? and type = ?&amp;#34;, (&amp;#39;%&amp;#39;+searchstr+&amp;#39;%&amp;#39;, type))</description>
+    </item>
+    
+  </channel>
+</rss>

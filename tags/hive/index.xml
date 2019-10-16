@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hive on Brave New World</title>
+    <link>https://vickyi.github.io/tags/hive/</link>
+    <description>Recent content in hive on Brave New World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 04 May 2018 16:37:56 +0800</lastBuildDate>
+    
+	<atom:link href="https://vickyi.github.io/tags/hive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hive beeline 登陆</title>
+      <link>https://vickyi.github.io/post/2018-05-04#hive-beeline-%E7%99%BB%E9%99%86/</link>
+      <pubDate>Fri, 04 May 2018 16:37:56 +0800</pubDate>
+      
+      <guid>https://vickyi.github.io/post/2018-05-04#hive-beeline-%E7%99%BB%E9%99%86/</guid>
+      <description>1 beeline -u jdbc:hive2://hiveserver2-gold-000.abcplus:10000 -n vk</description>
+    </item>
+    
+  </channel>
+</rss>

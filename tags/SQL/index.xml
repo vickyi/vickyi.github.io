@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Brave New World</title>
+    <link>https://vickyi.github.io/tags/SQL/</link>
+    <description>Recent content in SQL on Brave New World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 28 Apr 2018 16:37:56 +0800</lastBuildDate>
+    
+	<atom:link href="https://vickyi.github.io/tags/SQL/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>pyspark 学习</title>
+      <link>https://vickyi.github.io/post/2018-04-28#pyspark%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sat, 28 Apr 2018 16:37:56 +0800</pubDate>
+      
+      <guid>https://vickyi.github.io/post/2018-04-28#pyspark%E5%AD%A6%E4%B9%A0/</guid>
+      <description>pyspark 学习 pyspark 官方学习文档 python-programming-guide pyspark 安装 1 2 3 4 5 pip install pyspark or curl -O Downloading https://files.pythonhosted.org/packages/58/49/45370cc153a6adcf2c30 4a3c06e801ed3c9650d0f852e7fde04bd8ffb534/pyspark-2.3.0.tar.gz</description>
+    </item>
+    
+    <item>
+      <title>Hive 常用的日期函数</title>
+      <link>https://vickyi.github.io/post/2018-04-28#hive-%E5%B8%B8%E7%94%A8%E7%9A%84%E6%97%A5%E6%9C%9F%E5%87%BD%E6%95%B0/</link>
+      <pubDate>Sat, 28 Apr 2018 09:37:56 +0800</pubDate>
+      
+      <guid>https://vickyi.github.io/post/2018-04-28#hive-%E5%B8%B8%E7%94%A8%E7%9A%84%E6%97%A5%E6%9C%9F%E5%87%BD%E6%95%B0/</guid>
+      <description>Hive 常用的日期函数 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 ## 当前日期和时间 SELECT</description>
+    </item>
+    
+    <item>
+      <title>计算Hive表数据大小</title>
+      <link>https://vickyi.github.io/post/2018-04-25#%E8%AE%A1%E7%AE%97hive%E6%95%B0%E6%8D%AE%E5%A4%A7%E5%B0%8F/</link>
+      <pubDate>Wed, 25 Apr 2018 11:37:56 +0800</pubDate>
+      
+      <guid>https://vickyi.github.io/post/2018-04-25#%E8%AE%A1%E7%AE%97hive%E6%95%B0%E6%8D%AE%E5%A4%A7%E5%B0%8F/</guid>
+      <description>计算Hive表数据大小 查表表信息的基本命令 查看表的最详细信息 1 hive&amp;gt; desc formatted tableName; 查看表中数据大小 1 hive&amp;gt; dfs -du -s -h /path/to/table 应用示例 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16</description>
+    </item>
+    
+    <item>
+      <title>[Hive]SQl 中空值判断</title>
+      <link>https://vickyi.github.io/post/2016-11-01#Hive-SQl-%E4%B8%AD%E7%A9%BA%E5%80%BC%E5%88%A4%E6%96%AD/</link>
+      <pubDate>Tue, 01 Nov 2016 10:37:56 +0800</pubDate>
+      
+      <guid>https://vickyi.github.io/post/2016-11-01#Hive-SQl-%E4%B8%AD%E7%A9%BA%E5%80%BC%E5%88%A4%E6%96%AD/</guid>
+      <description>Hive SQl 中空值判断 1. NULL 与 \N hive在底层数据中如何保存和标识NULL，是由控制的。 1 alter table name SET SERDEPROPERTIES(&amp;#39;serialization.null.format&amp;#39; = &amp;#39;\N&amp;#39;); 比如： 设置 1 1 alter table name SET SERDEPROPERTIES(&amp;#39;serialization.null.format&amp;#39; = &amp;#39;\N&amp;#39;); 则：底层数据保存的</description>
+    </item>
+    
+  </channel>
+</rss>
